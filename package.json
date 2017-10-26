@@ -1,0 +1,12 @@
+{
+	"description": "Dlabs NativeScript Demo Application",
+	"readme": "NativeScript Application",
+	"repository": "https://github.com/g1smo/js-mobile-demo-nativescript",
+	"nativescript": {
+		"id": "org.nativescript.jsmobiledemonativescript"
+	},
+	"dependencies": {
+		"nativescript-theme-core": "~1.0.2",
+		"tns-core-modules": "~3.2.0"
+	}
+}
